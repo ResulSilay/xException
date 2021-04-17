@@ -1,0 +1,3 @@
+include ':xException'
+include ':app'
+rootProject.name = "xException App"
