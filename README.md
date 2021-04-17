@@ -4,8 +4,6 @@ Exception handler for Android.
 
 ## Installation
 
-Add it in your root build.gradle at the end of repositories:
-
 ```bash
 allprojects {
     repositories {
@@ -14,6 +12,8 @@ allprojects {
     }
 }
 ```
+
+Add it in your root build.gradle at the end of repositories:
 
 ```bash
 implementation 'com.github.ResulSilay:xException:1.0.0'
